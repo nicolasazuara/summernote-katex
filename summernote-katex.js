@@ -233,6 +233,10 @@
                                         '<td></td>' +
                                     '</tr>' +
                                     '<tr>' +
+                                        '<th class="text-monospace" scope="row">\\{x\\epsilon\\R / -\\infin \\lt x \\lt \\infin\\}</th>' +
+                                        '<td></td>' +
+                                    '</tr>' +
+                                    '<tr>' +
                                         '<th class="text-monospace" scope="row">\\begin{vmatrix} a & b\\\\ c & d \\end{vmatrix}</th>' +
                                         '<td></td>' +
                                     '</tr>' +
