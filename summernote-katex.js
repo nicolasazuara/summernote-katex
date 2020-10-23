@@ -185,6 +185,10 @@
                                         '<td></td>' +
                                     '</tr>' +
                                     '<tr>' +
+                                        '<th class="text-monospace" scope="row">x\\epsilon\\R</th>' +
+                                        '<td></td>' +
+                                    '</tr>' +
+                                    '<tr>' +
                                         '<th class="text-monospace" scope="row">\\sqrt{x}</th>' +
                                         '<td></td>' +
                                     '</tr>' +
@@ -230,10 +234,6 @@
                                     '</tr>' +
                                     '<tr>' +
                                         '<th class="text-monospace" scope="row">\\log_n x</th>' +
-                                        '<td></td>' +
-                                    '</tr>' +
-                                    '<tr>' +
-                                        '<th class="text-monospace" scope="row">\\{x\\epsilon\\R / -\\infin \\lt x \\lt \\infin\\}</th>' +
                                         '<td></td>' +
                                     '</tr>' +
                                     '<tr>' +
